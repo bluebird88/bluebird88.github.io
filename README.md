@@ -1,9 +1,9 @@
 this is a hexo light blog site and theme
 
-**note**
+# **note**
 - the real blog draft  articls and theme things in 'workspace' branch
 - the generated blog artifacts in 'master' branch
-- so you **should** switch 'workspace' branch to find RAW things :)
+- so you ***should*** switch 'workspace' branch to find RAW things :)
 
 # Install Hexo
 
