@@ -7,16 +7,32 @@
     </url>
 
     <url>
-        <loc>http://www.dreamworks.null/article/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</loc>
-        <lastmod>2018-11-22T06:10:13.256Z</lastmod>
+        <loc>http://www.dreamworks.null/article/Technology/Spring-Family/Spring-cloud/%E5%9F%BA%E4%BA%8Ecloud%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E6%88%96stream%E5%8C%96/</loc>
+        <lastmod>2018-12-10T05:18:16.877Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://www.dreamworks.null/article/hello-world/</loc>
-        <lastmod>2018-11-22T06:10:13.255Z</lastmod>
+        <loc>http://www.dreamworks.null/article/Technology/Spring-Family/Spring-cloud/Spring-cloud%E4%B8%BB%E8%A6%81%E7%BB%84%E4%BB%B6/</loc>
+        <lastmod>2018-12-10T05:17:26.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.dreamworks.null/article/Technology/Spring-Family/index/</loc>
+        <lastmod>2018-12-10T05:16:16.607Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.dreamworks.null/article/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</loc>
+        <lastmod>2018-12-10T05:09:26.530Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,7 +40,15 @@
 
     <url>
         <loc>http://www.dreamworks.null/article/about-typora/</loc>
-        <lastmod>2018-11-22T06:10:13.252Z</lastmod>
+        <lastmod>2018-11-22T06:32:01.437Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.dreamworks.null/article/hello-world/</loc>
+        <lastmod>2018-11-22T06:32:01.436Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
